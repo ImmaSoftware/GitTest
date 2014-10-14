@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //New chnge in my project
 		Toast.makeText(MainActivity.this, "Hello World!", Toast.LENGTH_SHORT).show();
 		
     }
